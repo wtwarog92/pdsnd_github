@@ -4,7 +4,7 @@
 13th November 2022
 
 ### Project Title
-Bikeshare project
+Bikeshare project - data analysis in Python
 
 ### Description
 
@@ -45,7 +45,7 @@ Also the script is asking the user if raw data should be displayed.
 ### How to use Project
 
 To use project you need python installed on your computer.
-Using terminal you can open it using command: $python3 bikeshare.py 
+Using terminal you can open it using command: $python3 bikeshare.py
 
 
 ### Credits
