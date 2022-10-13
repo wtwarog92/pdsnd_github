@@ -171,7 +171,7 @@ def user_stats(df, city):
     else:
         print('Counts of gender are not available for Washington.')
 
-    # TO DO: Display earliest, most recent, and most common year of birth
+    # TO DO: Display earliest, most recent, and most common year of birth (not available for Washington)
     if (city == 'chicago') or (city == 'new_york_city'):
         print('Earliest year of birth: ', int(df['Birth Year'].min()))
         print('Most recent year of birth: ', int(df['Birth Year'].max()))
