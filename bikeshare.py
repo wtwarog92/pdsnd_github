@@ -183,7 +183,8 @@ def user_stats(df, city):
     print('-'*40)
 
 def raw_data(df):
-    """Displays raw data. Number of rows is selected by the user. Then, asks the user if she/he would like to see 5 more rows."""
+    """Displays raw data. Number of rows is selected by the user.
+    Then, asks the user if 5 more row should be displayed."""
 
     user_input = input('Would you like to see raw data? Yes / No \n').lower()
     should_finish = False
